@@ -15,7 +15,7 @@ Costruisco software che risolvono problemi reali — da sola, da zero.
 Python avanzato · SQL · Anthropic Claude API
 
 ## 📫 Contatti
-- Instagram: [@90clelia__](https://www.instagram.com/90clelia__/)## 
+- Instagram: [@90clelia__](https://www.instagram.com/90clelia__/)
 
 <!--
 **cleliaesposito/cleliaesposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
